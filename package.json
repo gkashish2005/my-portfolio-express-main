@@ -10,7 +10,7 @@
     "portfolio",
     "express"
   ],
-  "author": "Shiburaj Pappu",
+  "author": "Kashish Gupta",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.2"
