@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio-express",
+  "version": "1.0.0",
+  "description": "My portfolio page in express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "express"
+  ],
+  "author": "Kashish Gupta",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
